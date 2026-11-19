@@ -1,4 +1,4 @@
-package Array.Hard;
+package ArrayProblems.Hard;
 
 public class second {
     public static void main(String[] args) {

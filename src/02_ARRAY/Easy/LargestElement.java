@@ -1,4 +1,4 @@
-package Array.Easy;
+package ArrayProblems.Easy;
 
 import java.util.Arrays;
 // find the largest element from the array

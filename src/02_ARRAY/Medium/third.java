@@ -1,4 +1,4 @@
-package Array.Medium;
+package ArrayProblems.Medium;
 
 public class third {
     public static void main(String[] args) {
