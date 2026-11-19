@@ -1,11 +1,9 @@
 package Array.Easy;
 
 import java.util.Arrays;
+// find the largest element from the array
 
 public class LargestElement {
-
-
-
     public static void main(String[] args) {
         int[] arr = {3,5,2,-5,-3,1,3,6};
         int[] arr1 = {1,1,1,1,1};
@@ -29,6 +27,7 @@ public class LargestElement {
     }
 
     //better approach
+    // time complexity O(n) , space complexity O(1)
     static int best(int arr[]){
         int n = arr.length;
         int largest = arr[0];
