@@ -1,4 +1,4 @@
-package LinkedList.Hard;
+package p02_LinkedList.Hard;
 
 public class third {
     public static void main(String[] args) {

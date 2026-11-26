@@ -1,9 +1,9 @@
-package 02_ARRAY.Easy;
+package p01_array.Easy;
 
 import java.util.Arrays;
 // find the largest element from the array
 
-public class LargestElement {
+public class q1_LargestElement {
     public static void main(String[] args) {
         int[] arr = {3,5,2,-5,-3,1,3,6};
         int[] arr1 = {1,1,1,1,1};

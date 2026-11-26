@@ -1,4 +1,4 @@
-package LinkedList.Easy;
+package p02_LinkedList.Easy;
 
 public class first {
     public static void main(String[] args) {

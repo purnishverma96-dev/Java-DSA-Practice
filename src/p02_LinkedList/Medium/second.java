@@ -1,4 +1,4 @@
-package LinkedList.Medium;
+package p02_LinkedList.Medium;
 
 public class second {
     public static void main(String[] args) {
